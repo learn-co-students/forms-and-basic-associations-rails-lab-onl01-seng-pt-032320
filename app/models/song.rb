@@ -18,8 +18,7 @@ class Song < ActiveRecord::Base
         self.save 
       end
     end 
-  end 
-
+  end
 
 
 end
